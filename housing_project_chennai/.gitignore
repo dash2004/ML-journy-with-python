@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep clean_data.csv)
+data/archive/
+data/*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
